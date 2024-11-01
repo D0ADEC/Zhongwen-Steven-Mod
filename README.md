@@ -4,7 +4,7 @@
 ![image](https://github.com/user-attachments/assets/a0fc32f4-cf46-4210-bd99-691c04a76701)
 >w/ display both enabled
 
-https://addons.mozilla.org/en-GB/firefox/addon/zhongwen-css-modified/
+Download the extension: https://addons.mozilla.org/en-GB/firefox/addon/zhongwen-css-modified/
 
 I made this modded version because I just prefer Zhuyin over Pinyin, and my goals for Mandarin fit more around Guoyu Mandarin and the use of a Bopomofo keyboard - thus Pinyin is rather irrelavent to me - and I couldn't find a way to remove it from the original version.
 
