@@ -1,1 +1,1 @@
-Just replace the CSS - Idk how to get the application signed yet so you have to temp extension it lol
+https://addons.mozilla.org/en-GB/firefox/addon/zhongwen-css-modified/
