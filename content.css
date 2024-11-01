@@ -246,24 +246,24 @@
 /* Yellow Background */
 #zhongwen-window.background-yellow .w-pinyin,
 #zhongwen-window.background-yellow .w-pinyin-small {
-  color: #ffffbf; /* Same as background */
+  color: #ffffbf; 
 }
 
 /* Lightblue Background */
 #zhongwen-window.background-lightblue .w-pinyin,
 #zhongwen-window.background-lightblue .w-pinyin-small {
-  color: #e6f4ff; /* Same as background */
+  color: #e6f4ff; 
 }
 
 /* Blue Background */
 #zhongwen-window.background-blue .w-pinyin,
 #zhongwen-window.background-blue .w-pinyin-small {
-  color: #5c73b8; /* Same as background */
+  color: #5c73b8; 
 }
 
 /* Black Background */
 #zhongwen-window.background-black .w-pinyin,
 #zhongwen-window.background-black .w-pinyin-small {
-  color: #000000; /* Same as background */
+  color: #000000; 
 }
 
