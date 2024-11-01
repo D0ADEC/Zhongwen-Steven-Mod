@@ -1,8 +1,8 @@
 ![image](https://github.com/user-attachments/assets/f0b818e7-3f19-4dff-9caa-0db71d91b989)
-w/ only characters type detected from page enabled
+>w/ only characters type detected from page enabled
 
 ![image](https://github.com/user-attachments/assets/a0fc32f4-cf46-4210-bd99-691c04a76701)
-w/ display both enabled
+>w/ display both enabled
 
 https://addons.mozilla.org/en-GB/firefox/addon/zhongwen-css-modified/
 
