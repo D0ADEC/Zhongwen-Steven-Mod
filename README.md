@@ -2,11 +2,13 @@
 
 https://addons.mozilla.org/en-GB/firefox/addon/zhongwen-css-modified/
 
-I made this modded version because I find Pinyin annoying and less useful than Zhuyin.
+I made this modded version because I just prefer Zhuyin over Pinyin, and my goals for Mandarin fit more around Taiwanese Mandarin and the use of a Bopomofo keyboard - thus Pinyin is rather irrelavent to me - and I couldn't find a way to remove it from the default version.
 
 You will need to enable Zhuyin in the options page, to get to this press
 
 ![image](https://github.com/user-attachments/assets/3e96fb24-6a60-4c24-88d0-499b88bf14a4)
+
+![image](https://github.com/user-attachments/assets/2e1c654a-6ca5-4d60-9e56-c2ffaf1e5d41)
 
 ###
 This is only made possible thanks to the wonderful work of Christian Schiller
