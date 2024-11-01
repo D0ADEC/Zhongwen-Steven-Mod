@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/a0fc32f4-cf46-4210-bd99-691c04a76701)
+
 https://addons.mozilla.org/en-GB/firefox/addon/zhongwen-css-modified/
 
 I made this modded version because I find Pinyin annoying and less useful than Zhuyin.
